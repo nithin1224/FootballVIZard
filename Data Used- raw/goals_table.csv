@@ -1,0 +1,122 @@
+"event_team" "league" "n.x" "n.y" "goals_per_shot"
+"Barcelona" "La Liga" 1471 262 0.18
+"Paris Saint-Germain" "Ligue 1" 1331 221 0.17
+"Real Madrid" "La Liga" 1637 259 0.16
+"AS Monaco" "Ligue 1" 1134 170 0.15
+"Atletico Madrid" "La Liga" 1111 152 0.14
+"RB Leipzig" "Bundesliga" 239 34 0.14
+"Sevilla" "La Liga" 1113 155 0.14
+"Valencia" "La Liga" 1002 140 0.14
+"Bayern Munich" "Bundesliga" 1474 195 0.13
+"Borussia Monchengladbach" "Bundesliga" 1053 133 0.13
+"Chelsea" "Premier League" 1429 182 0.13
+"Hertha Berlin" "Bundesliga" 779 101 0.13
+"Lyon" "Ligue 1" 1371 177 0.13
+"Nice" "Ligue 1" 1041 134 0.13
+"Arsenal" "Premier League" 1530 186 0.12
+"AS Roma" "Serie A" 1453 176 0.12
+"Borussia Dortmund" "Bundesliga" 1321 161 0.12
+"Celta Vigo" "La Liga" 1059 126 0.12
+"Eintracht Frankfurt" "Bundesliga" 965 111 0.12
+"Espanyol" "La Liga" 882 103 0.12
+"Evian Thonon Gaillard" "Ligue 1" 337 41 0.12
+"Guingamp" "Ligue 1" 975 113 0.12
+"Juventus" "Serie A" 1477 184 0.12
+"Las Palmas" "La Liga" 606 72 0.12
+"Lazio" "Serie A" 1354 156 0.12
+"Mainz" "Bundesliga" 999 115 0.12
+"Manchester City" "Premier League" 1636 197 0.12
+"Marseille" "Ligue 1" 1265 147 0.12
+"Montpellier" "Ligue 1" 1053 124 0.12
+"Napoli" "Serie A" 1624 193 0.12
+"Werder Bremen" "Bundesliga" 1026 120 0.12
+"AC Milan" "Serie A" 1267 135 0.11
+"Athletic Bilbao" "La Liga" 1073 115 0.11
+"Bayer Leverkusen" "Bundesliga" 1229 141 0.11
+"Bournemouth" "Premier League" 719 77 0.11
+"Cagliari" "Serie A" 710 79 0.11
+"Dijon FCO" "Ligue 1" 228 26 0.11
+"Everton" "Premier League" 1258 140 0.11
+"Genoa" "Serie A" 1212 130 0.11
+"Leicester City" "Premier League" 1215 138 0.11
+"Manchester Utd" "Premier League" 1314 144 0.11
+"Real Sociedad" "La Liga" 1064 114 0.11
+"Sassuolo" "Serie A" 1185 128 0.11
+"Sporting Gijon" "La Liga" 520 57 0.11
+"Stade Rennes" "Ligue 1" 1005 106 0.11
+"Tottenham" "Premier League" 1576 172 0.11
+"TSG Hoffenheim" "Bundesliga" 1099 116 0.11
+"VfL Wolfsburg" "Bundesliga" 1186 129 0.11
+"Villarreal" "La Liga" 998 112 0.11
+"Alaves" "La Liga" 168 17 0.1
+"Bastia" "Ligue 1" 884 89 0.1
+"Bordeaux" "Ligue 1" 1140 119 0.1
+"Caen" "Ligue 1" 1162 115 0.1
+"Cesena" "Serie A" 360 36 0.1
+"Crystal Palace" "Premier League" 1155 116 0.1
+"Deportivo La Coruna" "La Liga" 1064 104 0.1
+"Eibar" "La Liga" 968 101 0.1
+"FC Cologne" "Bundesliga" 956 92 0.1
+"Fiorentina" "Serie A" 1455 150 0.1
+"Granada" "La Liga" 922 90 0.1
+"Internazionale" "Serie A" 1466 142 0.1
+"Liverpool" "Premier League" 1603 166 0.1
+"Lorient" "Ligue 1" 1152 113 0.1
+"Newcastle" "Premier League" 862 84 0.1
+"Osasuna" "La Liga" 207 20 0.1
+"Palermo" "Serie A" 1087 105 0.1
+"Rayo Vallecano" "La Liga" 926 91 0.1
+"Sampdoria" "Serie A" 1233 118 0.1
+"SC Freiburg" "Bundesliga" 387 37 0.1
+"Schalke 04" "Bundesliga" 1119 110 0.1
+"Southampton" "Premier League" 1345 134 0.1
+"St Etienne" "Ligue 1" 1072 112 0.1
+"Stade de Reims" "Ligue 1" 857 86 0.1
+"Stoke City" "Premier League" 1176 118 0.1
+"SV Darmstadt 98" "Bundesliga" 488 49 0.1
+"Swansea" "Premier League" 1118 116 0.1
+"Torino" "Serie A" 1311 137 0.1
+"Toulouse" "Ligue 1" 1040 107 0.1
+"VfB Stuttgart" "Bundesliga" 878 87 0.1
+"Watford" "Premier League" 678 65 0.1
+"West Brom" "Premier League" 1007 102 0.1
+"West Ham" "Premier League" 1341 138 0.1
+"Almeria" "La Liga" 371 33 0.09
+"Atalanta" "Serie A" 1206 110 0.09
+"Bologna" "Serie A" 593 53 0.09
+"Elche" "La Liga" 357 31 0.09
+"FC Augsburg" "Bundesliga" 1058 97 0.09
+"GFC Ajaccio" "Ligue 1" 412 37 0.09
+"Hannover 96" "Bundesliga" 725 68 0.09
+"Hellas Verona" "Serie A" 898 81 0.09
+"Malaga" "La Liga" 1115 98 0.09
+"Middlesbrough" "Premier League" 198 18 0.09
+"Norwich City" "Premier League" 419 39 0.09
+"Real Betis" "La Liga" 603 52 0.09
+"Sunderland" "Premier League" 1054 99 0.09
+"Udinese" "Serie A" 1093 102 0.09
+"Angers" "Ligue 1" 661 55 0.08
+"AS Nancy Lorraine" "Ligue 1" 198 16 0.08
+"Burnley" "Premier League" 637 52 0.08
+"Carpi" "Serie A" 423 35 0.08
+"Chievo Verona" "Serie A" 1097 92 0.08
+"Crotone" "Serie A" 198 16 0.08
+"Empoli" "Serie A" 1168 96 0.08
+"Getafe" "La Liga" 795 67 0.08
+"Hamburg SV" "Bundesliga" 906 75 0.08
+"Hull" "Premier League" 658 53 0.08
+"Lens" "Ligue 1" 411 32 0.08
+"Levante" "La Liga" 772 64 0.08
+"Lille" "Ligue 1" 1201 99 0.08
+"Metz" "Ligue 1" 640 51 0.08
+"Parma" "Serie A" 419 33 0.08
+"QPR" "Premier League" 531 42 0.08
+"Aston Villa" "Premier League" 797 58 0.07
+"FC Ingolstadt 04" "Bundesliga" 621 45 0.07
+"Frosinone" "Serie A" 476 35 0.07
+"Leganes" "La Liga" 208 15 0.07
+"Nantes" "Ligue 1" 1081 76 0.07
+"SC Paderborn" "Bundesliga" 443 29 0.07
+"Troyes" "Ligue 1" 438 27 0.06
+"US Pescara" "Serie A" 245 14 0.06
+"Cordoba" "La Liga" 351 18 0.05
