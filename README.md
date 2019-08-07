@@ -6,7 +6,7 @@ This helps in making the decision of who to sponsor in upcoming tournament by pr
 Link for the website: https://swe632project.wixsite.com/footballvizard
 
 Huge amounts of data is being collected from various resources like Kaggle, Statista and few others.
-The comparative visualizations of Teams shows the statistcs since 1930 world cup to 2018 world cup.
+The comparative visualizations of National Football Teams shows the statistcs from 1930 world cup to 2018 world cup.
 
 The raw data being collected is refined so that it provides accurate information when visualized.
 The refined data has undergone the data interpretation and extracted into a compatible format.
